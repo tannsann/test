@@ -78,14 +78,3 @@ for i, val in enumerate(data_ma):
         last_val = val
     
 print(f'"Pa Ta Ka" has been said {round(ans/3)} times')
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
