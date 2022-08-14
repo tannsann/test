@@ -1,6 +1,9 @@
 # custom
 *.wav
+*.mp4
 *.png
+*.jpg
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
